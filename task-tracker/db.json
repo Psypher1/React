@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study click library more",
+      "day": "19th Jan at 10h00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Check out DM materials",
+      "day": "19th Jan at 13h00",
+      "reminder": false
+    },
+    {
+      "text": "Take notes for podcast",
+      "day": "23rd January at 11h00",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
